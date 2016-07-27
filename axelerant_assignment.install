@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * @file
+ * This file deals with deleting the variables related to this modules
+ * from variable table on uninstallations.
+ */
+
+/**
+ * Implements hook_uninstall().
+ */
+function axelerant_assignment_uninstall() {
+  variable_del('siteapikey');
+}

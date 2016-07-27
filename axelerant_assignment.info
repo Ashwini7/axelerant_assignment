@@ -1,0 +1,4 @@
+name = Axelerant Assignment
+description = "Handles assignment code on site information form"
+core = "7.x"
+package = Assignment
