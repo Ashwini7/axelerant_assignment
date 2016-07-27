@@ -16,4 +16,4 @@ This module needs to alter the existing Drupal "Site Information" form. Specific
 
 ## Example URL
 
-http://localhost/page_json/<siteapikey>/<node_id>
+http://localhost/page_json/siteapikey/node_id
